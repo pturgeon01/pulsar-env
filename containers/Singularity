@@ -123,12 +123,12 @@ From: ubuntu:22.04
     
     python3.10 -m pip install git+https://github.com/nanograv/PINT@master
     python3.10 -m pip install git+https://github.com/vallis/libstempo@master
-    # python3.10 -m pip install git+https://github.com/nanograv/enterprise@master
-    python3.10 -m pip install git+https://github.com/nanograv/enterprise@dev
-    python3.10 -m pip install git+https://github.com/nanograv/enterprise_extensions@dcbusyweek
+    # python3.10 -m pip install git+https://github.com/pturgeon01/enterprise@master
+    python3.10 -m pip install git+https://github.com/pturgeon01/enterprise@master
+    python3.10 -m pip install git+https://github.com/pturgeon01/enterprise_extensions@master
     python3.10 -m pip install git+https://github.com/nanograv/pint_pal@main
-    python3.10 -m pip install git+https://github.com/nanograv/enterprise@dev
-    python3.10 -m pip install git+https://github.com/nanograv/enterprise_extensions@dcbusyweek
+    python3.10 -m pip install git+https://github.com/pturgeon01/enterprise@master
+    python3.10 -m pip install git+https://github.com/pturgeon01/enterprise_extensions@master
     python3.10 -m pip install git+https://github.com/bvgoncharov/enterprise_warp
     python3.10 -m pip install git+https://github.com/nanograv/fastshermanmorrison.git
 
