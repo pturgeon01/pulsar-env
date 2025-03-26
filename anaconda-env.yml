@@ -61,9 +61,6 @@ dependencies:
   - libstempo
   - pint-pulsar>=0.9
   - mpi4py
-  - enterprise-pulsar
-  - enterprise_outliers
-  - enterprise_extensions
   - astroquery
   - pandas
   - pgplot
